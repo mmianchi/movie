@@ -18,7 +18,7 @@ class App extends Component {
     );
   }
 }
-t
+
 class Welcome extends Component {
   render() {
     return (
